@@ -14,15 +14,13 @@ Frontend has been completely made using pure **HTML**, **Javascript** and **CSS*
 
 # ScreenShots
 
-![Screenshot (776)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/33850f1b-944c-42f7-b23b-681c9a5d6d1a)
+![Screenshot (776)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/6cba020b-8468-4681-9b25-51180b6a2e6b)
 
-![Screenshot (777)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/ed80c50a-75e1-4cf4-8d24-01e1cffc983b)
+![Screenshot (777)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/01f8d00a-9fae-401b-834b-58e2186a03c3)
 
-![Screenshot (778)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/c65e31a0-55e9-4a7d-9fc4-c55547113c5b)
+![Screenshot (778)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/ec7b5c90-c154-427a-a34b-84631e504d43)
 
-![Screenshot (779)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/35bc4643-793a-4ab1-ba9d-68a8a63f4d90)
-
-
+![Screenshot (779)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/48b79cdf-0b8b-48de-bcc0-7cea36eacd3f)
 
 ## Pending Tasks:
 * Add a Dark Mode.
