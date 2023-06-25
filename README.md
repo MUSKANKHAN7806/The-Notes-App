@@ -1,4 +1,4 @@
-![Screenshot (776)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/f28c7b7d-c698-408c-ba99-06512441a9c8)# TheNoteApp
+## TheNoteApp
 This is a NoteApp built using HTML,CSS,JavaScript and using Firebase as Realtime Database,you could now save and access your notes on the go anywhere and anytime. It includes an online editor which have several tools like *bold, italic, font-size, font-weight, color etc.*
 
 ## View Live App
