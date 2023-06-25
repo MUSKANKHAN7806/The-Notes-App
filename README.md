@@ -1,4 +1,4 @@
-# TheNoteApp
+![Screenshot (776)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/f28c7b7d-c698-408c-ba99-06512441a9c8)# TheNoteApp
 This is a NoteApp built using HTML,CSS,JavaScript and using Firebase as Realtime Database,you could now save and access your notes on the go anywhere and anytime. It includes an online editor which have several tools like *bold, italic, font-size, font-weight, color etc.*
 
 ## View Live App
@@ -14,9 +14,14 @@ Frontend has been completely made using pure **HTML**, **Javascript** and **CSS*
 
 # ScreenShots
 
-![Screenshot (776)](https://user-images.githubusercontent.com/79283176/162963457-71bd4a21-f73b-4957-9f86-14f9e805fc5f.png)
-![Screenshot (777)](https://user-images.githubusercontent.com/79283176/162963471-2a9589f2-461a-4ba2-8be1-5c35fe1d9668.png)
-![Screenshot (778)](https://user-images.githubusercontent.com/79283176/162963472-10b90ffe-4481-41f1-b20e-e57576dce1fa.png)
+![Screenshot (776)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/33850f1b-944c-42f7-b23b-681c9a5d6d1a)
+
+![Screenshot (777)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/ed80c50a-75e1-4cf4-8d24-01e1cffc983b)
+
+![Screenshot (778)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/c65e31a0-55e9-4a7d-9fc4-c55547113c5b)
+
+![Screenshot (779)](https://github.com/MUSKANKHAN7806/The-Notes-App/assets/121242505/35bc4643-793a-4ab1-ba9d-68a8a63f4d90)
+
 
 
 ## Pending Tasks:
